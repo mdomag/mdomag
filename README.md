@@ -5,8 +5,7 @@ During my studies I've mostly used C++, but also got an opportunity to work on m
 
 My uploads are mostly uni related but I definitely plan on working on my own projects soon.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdomag&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-<img src="https://myreadme.vercel.app/api/embed/mdomag?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/mdoma?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 <img src="https://komarev.com/ghpvc/?username=mdomag&color=brightgreen" alt="watching_count" />
 
 <!--
