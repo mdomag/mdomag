@@ -1,7 +1,7 @@
-#🐢About me: 
+# 🐢 About me: 🐢
 
 My name is Maria and I'm a second year Computer Science student at UMCS. Previously I studied Cognitive Science which made me interested in programming as well as overall computer science and now I'm here! 
-During my studies I've mostly used C++, but also got an opportunity to work on my C, SQL, Java and Kotlin. Currently I'm focused on learning Rust and Python.
+During my studies I've mostly used C++, but also got an opportunity to work on my C, SQL, Java and Kotlin. Currently I'm focused on learning Rust and Python (AI related).
 
 My uploads are mostly uni related but I definitely plan on working on my own projects soon.
 
