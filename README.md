@@ -1,6 +1,4 @@
-# 🐢 About me: 🐢
-
-My name is Maria and I'm a second year Computer Science student at UMCS. Previously I studied Cognitive Science which made me interested in programming as well as overall computer science and now I'm here! 
+# 🐢 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdomag&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <img src="https://komarev.com/ghpvc/?username=mdomag&color=brightgreen" alt="watching_count" />
