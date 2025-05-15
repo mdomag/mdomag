@@ -1,7 +1,6 @@
 # 🐢 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdomag&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-<img src="https://komarev.com/ghpvc/?username=mdomag&color=brightgreen" alt="watching_count" />
 
 <!--
 **mdomag/mdomag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
